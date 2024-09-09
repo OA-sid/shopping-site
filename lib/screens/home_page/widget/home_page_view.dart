@@ -246,8 +246,7 @@ class _HomePagViewState extends State<HomePagView> {
   }
 
   String getHtmlView(String html, String css) {
-    css = css +
-        """div {
+    css = """${css}div {
     flex-direction: column;
     column-count: 1 !important;
     width: 100%;

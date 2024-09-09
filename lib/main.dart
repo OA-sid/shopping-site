@@ -11,8 +11,6 @@
 // must_be_immutable, void_checks
 
 import 'dart:io';
-import 'package:bagisto_app_demo/screens/home_page/data_model/get_categories_drawer_data_model.dart';
-import 'package:bagisto_app_demo/screens/home_page/data_model/new_product_data.dart';
 import 'package:bagisto_app_demo/utils/app_global_data.dart';
 import 'package:bagisto_app_demo/utils/app_navigation.dart';
 import 'package:bagisto_app_demo/utils/application_localization.dart';
